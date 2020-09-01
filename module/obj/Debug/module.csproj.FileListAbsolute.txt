@@ -1,0 +1,10 @@
+C:\Users\Matrix\source\repos\massbox\module\bin\Debug\module.dll
+C:\Users\Matrix\source\repos\massbox\module\bin\Debug\module.pdb
+C:\Users\Matrix\source\repos\massbox\massbox\bin\Debug\module.dll
+C:\Users\Matrix\source\repos\massbox\massbox\bin\Debug\module.pdb
+C:\Users\Matrix\source\repos\massbox\module\obj\Debug\module.csprojAssemblyReference.cache
+C:\Users\Matrix\source\repos\massbox\module\obj\Debug\module.WifiView.resources
+C:\Users\Matrix\source\repos\massbox\module\obj\Debug\module.csproj.GenerateResource.cache
+C:\Users\Matrix\source\repos\massbox\module\obj\Debug\module.csproj.CoreCompileInputs.cache
+C:\Users\Matrix\source\repos\massbox\module\obj\Debug\module.dll
+C:\Users\Matrix\source\repos\massbox\module\obj\Debug\module.pdb

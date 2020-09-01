@@ -1,0 +1,7 @@
+C:\Users\Matrix\source\repos\massbox\module\bin\Release\module.dll
+C:\Users\Matrix\source\repos\massbox\module\bin\Release\module.pdb
+C:\Users\Matrix\source\repos\massbox\module\obj\Release\module.WifiView.resources
+C:\Users\Matrix\source\repos\massbox\module\obj\Release\module.csproj.GenerateResource.cache
+C:\Users\Matrix\source\repos\massbox\module\obj\Release\module.csproj.CoreCompileInputs.cache
+C:\Users\Matrix\source\repos\massbox\module\obj\Release\module.dll
+C:\Users\Matrix\source\repos\massbox\module\obj\Release\module.pdb
